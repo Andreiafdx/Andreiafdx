@@ -7,5 +7,5 @@
 - 🌱 I’m currently learning Git, C, python and C++
 - 📫 How to reach me: you can email me: andreiaksaito@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I use to write a lot of codes, but I never used GitHub before cause I thought it was to complicated
+- ⚡ Fun fact: I wrote a lot of codes, but I never used GitHub before because I thought it was to complicated
 
